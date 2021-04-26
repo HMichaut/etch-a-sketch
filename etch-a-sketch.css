@@ -1,0 +1,14 @@
+#grid-div {
+    display: flex;
+    flex-wrap: wrap;
+    width: 960px;
+    height: 960px;
+    margin: auto;
+    border-style: ridge;
+}
+.gridSquare {
+    background-color: white;
+}
+#top-bar {
+    text-align: center;
+}
